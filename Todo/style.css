@@ -1,0 +1,12 @@
+* {
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+}
+.list {
+    font-size: 1.75em;
+}
+.list-item:hover{
+    text-decoration: line-through;
+    cursor: default;
+}
