@@ -1,0 +1,13 @@
+
+.not-main {
+    width: 90%;
+    position: relative;
+    top : 70px;
+    margin: 0 auto;
+    border: 1px solid red;
+    text-align: center;
+    display : none;
+}
+.visible {
+    display: block;
+}
